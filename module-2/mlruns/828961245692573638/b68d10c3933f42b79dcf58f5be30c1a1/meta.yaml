@@ -1,0 +1,16 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/b68d10c3933f42b79dcf58f5be30c1a1/artifacts
+deleted_time: 1685549393977
+end_time: 1685549001075
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: deleted
+run_id: b68d10c3933f42b79dcf58f5be30c1a1
+run_name: upbeat-boar-538
+run_uuid: b68d10c3933f42b79dcf58f5be30c1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685548990810
+status: 4
+tags: []
+user_id: swethaa

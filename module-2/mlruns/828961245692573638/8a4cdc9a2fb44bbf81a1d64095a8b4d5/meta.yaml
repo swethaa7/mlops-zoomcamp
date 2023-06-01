@@ -1,0 +1,15 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/8a4cdc9a2fb44bbf81a1d64095a8b4d5/artifacts
+end_time: 1685549461441
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: active
+run_id: 8a4cdc9a2fb44bbf81a1d64095a8b4d5
+run_name: bright-smelt-184
+run_uuid: 8a4cdc9a2fb44bbf81a1d64095a8b4d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685549451047
+status: 3
+tags: []
+user_id: swethaa

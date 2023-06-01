@@ -1,0 +1,9 @@
+mlflow
+jupyter
+scikit-learn
+pandas
+xgboost
+fastparquet
+hyperopt
+seaborn
+boto3

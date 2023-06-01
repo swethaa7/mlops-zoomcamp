@@ -1,0 +1,16 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/828f979860a44bcdbaac96b4194c1ee2/artifacts
+deleted_time: 1685549393991
+end_time: 1685548882106
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: deleted
+run_id: 828f979860a44bcdbaac96b4194c1ee2
+run_name: skillful-calf-437
+run_uuid: 828f979860a44bcdbaac96b4194c1ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685548882096
+status: 4
+tags: []
+user_id: swethaa

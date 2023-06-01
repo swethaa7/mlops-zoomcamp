@@ -1,0 +1,16 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/ee877996f03c4f87b9291669158d878d/artifacts
+deleted_time: 1685549393985
+end_time: 1685548921742
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: deleted
+run_id: ee877996f03c4f87b9291669158d878d
+run_name: marvelous-steed-181
+run_uuid: ee877996f03c4f87b9291669158d878d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685548921734
+status: 4
+tags: []
+user_id: swethaa

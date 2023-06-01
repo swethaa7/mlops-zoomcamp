@@ -1,0 +1,6 @@
+artifact_location: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638
+creation_time: 1685548683583
+experiment_id: '828961245692573638'
+last_update_time: 1685548683583
+lifecycle_stage: active
+name: my-experiment-with-taxi-data

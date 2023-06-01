@@ -1,0 +1,16 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/709901480d724816923a055d1114de3a/artifacts
+deleted_time: 1685549393994
+end_time: 1685548683875
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: deleted
+run_id: 709901480d724816923a055d1114de3a
+run_name: exultant-fawn-290
+run_uuid: 709901480d724816923a055d1114de3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685548683865
+status: 4
+tags: []
+user_id: swethaa

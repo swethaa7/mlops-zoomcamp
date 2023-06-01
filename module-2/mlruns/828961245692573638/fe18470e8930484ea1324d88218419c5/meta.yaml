@@ -1,0 +1,15 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/fe18470e8930484ea1324d88218419c5/artifacts
+end_time: 1685549352716
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: active
+run_id: fe18470e8930484ea1324d88218419c5
+run_name: classy-wolf-913
+run_uuid: fe18470e8930484ea1324d88218419c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685549342249
+status: 3
+tags: []
+user_id: swethaa

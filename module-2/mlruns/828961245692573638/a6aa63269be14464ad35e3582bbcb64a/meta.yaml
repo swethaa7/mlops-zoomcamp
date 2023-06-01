@@ -1,0 +1,16 @@
+artifact_uri: file:///home/swethaa/mlops-zoomcamp/module-2/mlruns/828961245692573638/a6aa63269be14464ad35e3582bbcb64a/artifacts
+deleted_time: 1685549393982
+end_time: 1685549084472
+entry_point_name: ''
+experiment_id: '828961245692573638'
+lifecycle_stage: deleted
+run_id: a6aa63269be14464ad35e3582bbcb64a
+run_name: marvelous-mink-702
+run_uuid: a6aa63269be14464ad35e3582bbcb64a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685549084461
+status: 4
+tags: []
+user_id: swethaa
